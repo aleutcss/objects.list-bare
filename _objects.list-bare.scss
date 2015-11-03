@@ -6,11 +6,7 @@
  * The list-bare object simply removes any indents and bullet points from lists.
  */
 
-// Predefine the variables below in order to alter and enable specific features.
-$inuit-list-bare-namespace: $inuit-namespace !default;
-
-.#{$inuit-list-bare-namespace}o-list-bare,
-%#{$inuit-list-bare-namespace}o-list-bare {
+.o-list-bare {
     margin:  0;
     padding: 0;
     list-style: none;
