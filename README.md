@@ -5,7 +5,8 @@ The `list-bare` object simply removes bullets and indents from lists.
 ## Install using npm:
 
 ```ssh
-    $ npm install --save-dev @aleut/objects.list-bare
+    $ npm install --save-dev aleut.objects.list-bare
+
 ```
 
 ## Usage
